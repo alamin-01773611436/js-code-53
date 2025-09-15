@@ -1,6 +1,6 @@
 //
 let wrapper = document.querySelector(".wrapper");
-wrapper.style = "width: 100%; display: flex; justify-content: space-between";
+wrapper.style = "width: 100%; display: flex; justify-content: space-around";
 
 function f1() {
     const userInput = prompt("Enter a number");
